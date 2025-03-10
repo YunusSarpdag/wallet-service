@@ -26,7 +26,8 @@ Digital wallet management system for corporate companies
   if you have IDE you can run in main method
 
   ## Structures and Dependencies
- ![image](https://github.com/user-attachments/assets/a3dbfb2d-0e6b-463e-8c38-3cae5b6a3a14)
+ ![image](https://github.com/user-attachments/assets/b4e9f170-8bee-4088-8d15-082d3b1679ee)
+
 
 
 ## Test
