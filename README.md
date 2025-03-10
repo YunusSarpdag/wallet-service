@@ -4,7 +4,7 @@ Digital wallet management system for corporate companies
 
 - [About the Project](#about-project)
 - [Beginning](#beginning)
-- [Useage](#use)
+- [Useage](#useage)
 - [Structures and Dependencies](#structures-dependencies)
 - [Tests](#tests)
 
