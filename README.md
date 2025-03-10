@@ -13,6 +13,7 @@ Digital wallet management system for corporate companies
 
   ## Beginning
   Requires Java 17
+  
   Maven
 
   ## Useage
