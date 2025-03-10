@@ -16,7 +16,7 @@ Digital wallet management system for corporate companies
   Maven
 
   ## Useage
-  Clone the repository
+  Clone the repository /n
   git clone https://github.com/YunusSarpdag/wallet-service
   cd wallet-service
   install maven
