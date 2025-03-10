@@ -30,5 +30,5 @@ Digital wallet management system for corporate companies
 
 
 
-## Test
+## Tests
 All unit test written
