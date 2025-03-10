@@ -16,11 +16,16 @@ Digital wallet management system for corporate companies
   Maven
 
   ## Useage
-  Clone the repository /n
+  Clone the repository
+  
   git clone https://github.com/YunusSarpdag/wallet-service
+  
   cd wallet-service
+  
   install maven
+  
   mvn clean install
+  
   mvn spring-boot:run
 
   if you have IDE you can run in main method
